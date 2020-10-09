@@ -1,2 +1,5 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+PyFire_V3.py
+AudioLayers_V0.py
+__pycache__/
